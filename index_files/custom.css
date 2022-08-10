@@ -1,0 +1,173 @@
+@charset "utf-8";
+/* CSS Document */
+
+.slidbar{padding: 0px; padding-top: 6px;}
+.Welcome{margin-top:60px;}
+
+
+.m4{margin:0px; padding:0px;}
+.herow{margin-top:100px;}
+.features{background-color:#0f806c; color:#FFFFFF; margin-top:25px; padding-top:20px; padding-bottom:20px;}
+.bfs{padding-top:8px; padding-bottom:8px; background-color:#0d6353; margin: 0;}
+
+.adds{margin-top:90px; margin-bottom: 90px;}
+
+.Office{padding-top:50px; padding-bottom:40px;}
+
+.footer{background-color:#000000; padding-bottom:50px; padding-top:50px;}
+
+.icons{width:250px; height:50px; margin-left:auto; margin-right:auto;  margin-top:50px;}
+.icon1{width:50px; height:50px; float:left; margin-left:20px; }
+.icon2{width:50px; height:50px; float:left; margin-left:20px;}
+.icon3{width:50px; height:50px; float:left; margin-left:20px;}
+
+.ff :hover{opacity:.5;}
+
+.gg:hover{opacity:.5;}
+
+.of{margin-top:10px; color:#FFFFFF;} 
+
+
+.abo{background-color:#0f806c; padding-top:4px; padding-bottom:4px; color:#FFFFFF;}
+.abo h2 {margin: 0; padding: 15px 0;}
+.co{padding:75px 0px;}
+
+.Dileep {margin-top:20px; margin-bottom:40px;}
+
+
+.Does{margin-top:80px; margin-bottom:50px;}
+
+.three{margin-top:60px; }
+.th1{margin-top:30px; border-style: solid;
+    border-color: #ff0000 ; padding:10px; }
+
+.Patching{background-color:#565353; padding-top:30px; padding-bottom:30px; color:#FFFFFF;}
+
+.Advanced{margin-top:80px; margin-bottom:80px;}
+
+.Newly{margin-top:80px; }
+
+.intyp{height:50px; width:100%;}
+.intypp{height:200px; width:100%;}
+.gtop{margin-top:30px;}
+
+.tform2{margin-top:25px; }
+.tform3{margin-top:25px;}
+.intyp{height:50px; width:100%;}
+.mybu{float:right; background-color:#fe030a; color:#FFFFFF; border:none; width:100px; padding-top:10px; }
+
+.contact{margin-top:50px;}
+
+.Kerala{margin-top:20px; margin-bottom:50px;}
+
+.what{padding-top:10px; padding-bottom:10px; background-color:#1b1919; }
+
+.green{width:250px; height:50px; float:left; color:#FFFFFF; }
+.gr{width:40px; height:40px; float:left; }
+
+.gre{width:200px; height:40px; margin-left:50px}
+
+
+.boos{border-style: solid;
+    border-color: #ff0000 ; width:1000; padding:20px;}
+	
+	.boos2{border-style: solid;
+    border-color: #ff0000 ; width:1000px; padding:20px;}
+
+.ggm{padding:50px 0;}
+
+.opw {
+    background-color: #1b1919;
+    padding-bottom: 60px;
+}
+
+.opw-heading {
+    text-align: center;
+    padding: 40px 0;
+}
+
+.opw-heading h2 {
+    color: #fff;
+}
+
+.text-box {
+    text-align: center;
+    background-color: #0f806c;
+    padding: 60px 0;
+}
+
+.opw-box-2 .text-box {
+    text-align: center;
+    background-color: #9d9d9d;
+    padding: 60px 0;
+}
+
+.text-box p {
+    color: #fff;
+}
+
+.text-box span.box-num {
+    font-size: 60px;
+    line-height: normal;
+    padding-bottom: 10px;
+}
+
+.text-box span.box-text {
+    font-size: 18px;
+}
+
+.text-box p span {
+    display: block;
+}
+
+.navbar-nav a strong {
+    padding: 8px 10px;
+    background-color: #0f806c;
+    border-radius: 3px;
+    color: #fff;
+    border: 1px solid transparent;
+    font-weight: 100;
+}
+
+.navbar-nav a strong:hover {
+    background-color: #ffffff;
+    border-radius: 3px;
+    color: #0f806c;
+    border: 1px solid #0f806c;
+}
+
+.nav.navbar-nav li a {
+    padding: 40px 10px 15px;
+}
+
+.features a {
+    text-decoration: none;
+}
+
+.soc-wrapper p {
+    text-align: center;
+    padding: 10px;
+    background-color: #8b9291;
+    color: #fff;
+}
+
+.ggm h2 {
+    text-align: center;
+    padding: 20px 0;
+}
+
+.cor-wrapper p {
+    text-align: center;
+    padding: 10px;
+    background-color: #8b9291;
+    color: #fff;
+}
+
+.thm-wrapper p {
+    text-align: center;
+    padding: 10px;
+    background-color: #8b9291;
+    color: #fff;
+}
+
+
