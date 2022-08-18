@@ -291,7 +291,7 @@
           <div class="row contactsss">
 
             <div class="col-lg-12">
-              <form class="justify-between"  id="form">
+              <form class="justify-between"  method="POST" action="https://script.google.com/macros/s/AKfycbwp5Q8_VOshePr8AtZT6tJU6eOaZNXlhrpFbCMPzo9DLFCPKlaa7fWHcvMsW17CseaU5g/exec">
                 <div class="row">
                     <div class="col-md-6">
                       <div class="tform1">
@@ -425,29 +425,6 @@
 
     });
   </script>
-  <script>
-    const scriptURL = 'https://script.google.com/macros/s/AKfycbzljZz29IuUyEA9FtC4jaG5s_3BLxDO3hcwEzvaxGHW-CcFI4JHL9Bs5W6VPIsElZkv/execS'
-    const form = document.querySelector('#form')
-    const btn = document.querySelector('#submit')
-
-
-    form.addEventListener('submit', e => {
-      e.preventDefault()
-      btn.disabled = true
-      btn.innerHTML = "Loading..."
-
-      console.log(form)
-      fetch(scriptURL, { method: 'POST', body: new FormData(form) })
-        .then(response => {
-              btn.disabled = false
-      btn.innerHTML = "Submit"
-            alert('Success!', response) })
-        .catch(error => {
-                     btn.disabled = false
-      btn.innerHTML = "Submit"
-            alert('Error!', error.message)})
-    })
-</script>
   <script>
     $(document).ready(function() {
 
